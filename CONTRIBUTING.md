@@ -126,6 +126,12 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+#### Name: [Max Mario](https://github.com/Stormshadows)
+
+- Place: Mangalore, Karnataka, India
+- Bio: Full stack dev
+- GitHub: [Stormshadows](https://github.com/Stormshadows)
+
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
